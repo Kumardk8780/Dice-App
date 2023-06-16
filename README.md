@@ -1,6 +1,13 @@
-# dice
+# DICE
 
-A new Flutter project.
+A Flutter app with basic flutter and dart techniques to build the app.
+A basic dice-rolling app.
+
+## **Sample**
+
+<img width="205" alt="Dice 2" src="https://github.com/Kumardk8780/Dice-App/assets/54668564/2b12f8dd-798f-4f09-b100-4ce8cf8bc5bb">
+<img width="205" alt="Dice 1" src="https://github.com/Kumardk8780/Dice-App/assets/54668564/aabee4f8-2331-4914-84a0-561b28decc95">
+
 
 ## Getting Started
 
